@@ -14,4 +14,4 @@ of plasma diagnostics.
 - 📈 [project-3](https://github.com/dariaproniakova/project-3) — one line on what it does and the key result
 -->
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · dariaproniakova@gmail.com
+📫 dariaproniakova@gmail.com

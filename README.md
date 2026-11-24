@@ -9,9 +9,9 @@ of plasma diagnostics.
 
 ### Featured projects
 - 🔧 [gauge-reader](https://github.com/dariaproniakova/gauge-reader) — reading analog gauges for robotic inspection (YOLO, ROS 2) · *in progress*
-<!-- Uncomment each line once its repo is public:
-- 💬 [review-rating-nlp](https://github.com/dariaproniakova/review-rating-nlp) — predicting ratings and recommendations from review text (BoW baseline vs RNN vs hybrid)
-- 📈 [project-3](https://github.com/dariaproniakova/project-3) — one line on what it does and the key result
--->
+- 💬 [review-rating-nlp](https://github.com/dariaproniakova/review-rating-nlp) — ratings and recommendations from review text: bag-of-words vs GRU vs hybrid (Spearman 0.704)
+- 📈 [loan-default-prediction](https://github.com/dariaproniakova/loan-default-prediction) — credit default on imbalanced data, LogReg → Random Forest → XGBoost (Kaggle ROC-AUC 0.835)
+- 🗺️ [travel-market-segmentation](https://github.com/dariaproniakova/travel-market-segmentation) — clustering 37.7M Expedia searches into market segments (KMeans vs GMM)
+- 🏠 [house-price-regression](https://github.com/dariaproniakova/house-price-regression) — regularized regression with feature interactions (R² 0.879)
 
 📫 dariaproniakova@gmail.com
